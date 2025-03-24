@@ -1,0 +1,234 @@
+
+.inbox1{
+    padding:0px 10px;
+    height: 100px;
+
+
+}
+
+
+
+.b1{
+color: white;
+background-color: rgb(243, 152, 55);
+padding:0px 13px;
+margin:  40px 0px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, s;
+border: 2px solid rgb(244, 149, 24);
+
+
+}
+.sec2{
+    background-image: url(project3\ img.jpg);
+    height: auto;
+    background-size: cover;
+}
+.inbox8{
+    text-align: center;
+    padding: 50px 50px;
+    margin: 20px 30px;
+}
+span.sp1{
+    color: rgb(127, 238, 72);
+    font-weight: bold;
+    
+}
+span.sp2{
+    color: white;
+    font-weight: bold;
+}
+.para{
+    color: white;
+    font-size: 20px;
+
+}
+.b2{
+    color: white;
+    background-color: rgb(243, 152, 55);
+    border: 2px solid rgb(244, 149, 24);
+    padding: 10px 65px;
+    margin: 15px 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, s
+}
+.inbox2,.inbox3,.inbox4,.inbox5{
+    margin: 5px 0px;
+    padding: 40px 10px;
+    text-align: center;
+
+}
+.inbox6{
+    color: rgb(67, 136, 201);
+    margin: 40px 10px;
+    padding: 5px 5px;
+}
+.bibi-lock{
+    color: rgb(61, 111, 205);
+}
+/*.inbox7{
+    margin: 10px;
+}
+*/
+h1.head{
+    font-size: 50px;
+}
+.inbox9{
+    text-align: center;
+    margin: 40px 40px;
+    font-weight: bold;
+}
+.sec3{
+    height: auto;
+    background-color: rgb(243, 239, 239);
+}
+.pro bar{
+    background-color: rgb(143, 246, 53);
+}
+h6.num{
+    color: gray
+    ;
+}
+.sec4{
+    background-image: url(tab\ screen\ 3.png);
+    background-size: cover;
+    height: auto;
+    
+   
+}
+
+
+
+
+.inbox11{
+    margin-top: 90px  ;
+    padding: 0px;
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+
+.sec5{
+    background-color:rgb(230, 243, 247);
+    background-image: url(mob\ screen.png);
+    background-size: cover;
+    height: auto;
+
+    
+
+}
+.inbox12{
+   margin-top: 90px;
+}
+.sec7{
+    position: relative;
+}
+.leaf{
+    position: absolute;
+    top: -50px;
+    left: 45%;
+    width: 150px;
+}
+/*span{
+    padding: 0px 15px;
+}*/
+.inbox13{
+    margin-top: 90px;
+    padding:  0px;
+}
+.inbox14{
+    text-align: center;
+    padding: 20px 40px;
+}
+.inbox15{
+text-align: center;
+margin-bottom: 70px;
+}
+.sec7{
+    height: auto;
+    background-color: rgb(149, 183, 172);
+}
+   
+.inbox16{
+    text-align: center;
+    color: white;
+    margin: 90px;
+}
+.b3{
+    color: white;
+    background-color: rgb(149, 183, 172);
+
+    border: 1px solid ;
+    padding: 10px 65px;
+    margin: 15px 25px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.sec8{
+    height: auto;
+    background-color:white;
+}
+.inbox17{
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 40px;
+
+
+}
+.b4{
+    color: white;
+    background-color: rgb(243, 152, 55);
+    border: 2px solid rgb(244, 149, 24);
+    padding: 10px 60px;
+    margin: 15px 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, s
+}
+.b5{
+    color: gray;
+    border:2px solid  gray;
+    padding: 10px 80px;
+    margin: 15px 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+}
+.bp{
+    font-size: 15px;
+    font-style: italic;
+}
+.sec9{
+    height: auto;
+    background-color: black;
+}
+.inbox18{
+    text-align: center;
+    color: white;
+    margin-top: 60px;
+}
+.inbox19{
+    text-align: center;
+}
+.inbox20{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+.inbox21{
+    text-align: center;
+    color: white;
+    margin: 10px;
+}
+.sp1{
+    color: white;
+
+}
+hr.hr1{
+    height: 3px;
+    background-color: rgb(115, 109, 109);
+}
+.bi-calendar2,.bi-shield-exclamation,.bi-check-circle,.biclock,.bi-lock,.bi-shield{
+    text-align: right;
+}
+.box5{
+   margin-left: 40px;
+}
+.sec6{
+    height: auto;
+    background-color: white;
+}
